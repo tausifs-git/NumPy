@@ -1,0 +1,39 @@
+Numpy = Numerical Python
+    - Integrates well with APIs, Databases, Web Pages
+    
+    - Underneath, Numpy was built with c programming, to make it faster.
+    
+    - Example of a Numpy Operation:- 
+            list = [1, 2, 3]                # Not Anymore
+            array = np.array([1, 2, 3])     # Perfection {10x times faster}
+    
+    - Vectorized Operation
+        Example:- 
+            np.array([1, 2, 3]) * 2 = [2, 4, 6]     # Using Numpy
+            [1, 2, 3] * 2 = [1, 2, 3, 1, 2, 3]      # Using Python List
+
+    - <class 'numpy.ndarray'> means n-dimensional array
+
+
+
+* Python Topics you'll need to know to learn Numpy
+        1.  Variable
+        2.  Data Type
+        3.  Lists
+        4.  Loops
+        5.  Functions
+        6.  Indexing
+
+
+* Python Libraries:-
+        1.  BeautifulSoup
+        2.  Django
+        3.  Flask
+        4.  Matplotlib
+        5.  Numpy
+        6.  Pandas
+        7.  Pytorch
+        8.  Requests
+        9.  Scikit-learn
+        10. TensorFlow
+

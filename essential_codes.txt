@@ -1,0 +1,17 @@
+* pip - package manager / package installer 
+
+    - Install Numpy
+            pip install numpy
+
+
+    - Upgrade Numpy Version
+            pip install --upgrade numpy
+    or,     pip install -U numpy
+
+
+    - If you know the exact version you want to Upgrade numpy into then use this:-
+            pip install numpy==2.0.0        
+
+
+
+            
