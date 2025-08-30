@@ -1,6 +1,7 @@
 # NumPy
 
-##### Be careful, some cells are more important than others. If the concerning cells have not been run yet, other cells might not work.
+### To Update your local environment run the following code in terminal:-
+- ``` pip install numpy ```
 
 ### Important Cells:-
 
